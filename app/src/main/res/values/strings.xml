@@ -3,6 +3,4 @@
     <string name="title_activity_referencia">ReferenciaActivity</string>
     <string name="hint_username">Nombre de usuario</string>
     <string name="hint_password">Contraseña</string>
-    <string name="username">Nombre de Usuario</string>
-    <string name="password">Contraseña</string>
 </resources>
